@@ -4,7 +4,6 @@
 - 👧🏻 I'm 13 years old
 - 🌏 Came to this Earth on 25th June 2009
 - 🌏 I'm Born in India
-- 🕉 Born as a Hindu
 
 <!---
 harshitasingh2506/harshitasingh2506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
